@@ -1,3 +1,6 @@
+# ignore intellij directory
+*.idea
+
 # ignore vscode directory
 .vscode
 .DS_Store
